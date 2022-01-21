@@ -1,0 +1,17 @@
+# Folder Path
+BACK_CAM : '/Users/alpha/Downloads/360_degree_view/CAM_BACK'
+BACK_CAM_SMALL : 'PASE/resources/images'
+
+extension : 'jpg'
+
+# PRESPECTIVE TRANSFORM
+output_image_height : 800
+output_image_width : 450
+
+w_1 : 645
+w_2 : 1045
+w_3 : 200
+w_4 : 1370
+
+h_1 : 545
+h_2 : 785
